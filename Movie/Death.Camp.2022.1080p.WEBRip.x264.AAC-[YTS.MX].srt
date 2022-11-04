@@ -1,7 +1,7 @@
 1
 00:00:02,000 --> 00:00:07,000
 Downloaded from
-YTS.MX
+Fm Movie
 
 2
 00:00:02,002 --> 00:00:04,797
@@ -9,8 +9,7 @@ YTS.MX
 
 3
 00:00:08,000 --> 00:00:13,000
-Official YIFY movies site:
-YTS.MX
+By Ferymaleha 
 
 4
 00:00:23,023 --> 00:00:25,577
